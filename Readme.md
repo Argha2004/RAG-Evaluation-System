@@ -64,7 +64,7 @@ Evaluation (Semantic Similarity)
 # 📂 Project Structure
 
 ```text
-rag-eval/
+RAG-Evaluation-System/
 │
 ├── data/
 │   └── dataset.json
@@ -80,6 +80,8 @@ rag-eval/
 │
 ├── main.py
 ├── requirements.txt
+├── .gitignore
+├── License
 └── README.md
 ```
 
