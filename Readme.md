@@ -90,11 +90,11 @@ RAG-Evaluation-System/
 # ⚙️ Installation
 
 ```bash
-git clone https://github.com/your-username/rag-eval.git
-cd rag-eval
+git clone https://github.com/Argha2004/RAG-Evaluation-System.git
+cd RAG-Evaluation-System
 
 python -m venv venv
-venv\Scripts\activate   # Windows
+venv\Scripts\activate
 
 pip install -r requirements.txt
 ```
@@ -174,6 +174,13 @@ Correct: True
 
 Contributions are welcome!
 Feel free to fork and improve the project.
+
+---
+
+# 😎 Author
+
+Arghadeep Pakhira
+Computer Science & Engineering | Sister Nivedita University
 
 ---
 
