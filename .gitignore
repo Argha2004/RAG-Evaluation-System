@@ -1,0 +1,87 @@
+# =========================
+# Python
+# =========================
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual Environment
+venv/
+.env/
+.env.*
+.venv/
+
+# =========================
+# Environment Variables
+# =========================
+.env
+*.env
+
+# =========================
+# Jupyter Notebooks
+# =========================
+.ipynb_checkpoints/
+
+# =========================
+# Logs & Outputs
+# =========================
+*.log
+logs/
+outputs/
+results/
+
+# =========================
+# Data (VERY IMPORTANT)
+# =========================
+data/*.json
+data/*.csv
+data/*.txt
+
+# (optional: allow small sample dataset)
+!data/sample_dataset.json
+
+# =========================
+# Model Files
+# =========================
+*.bin
+*.pt
+*.pth
+*.onnx
+
+# HuggingFace / Transformers cache
+.cache/
+models/
+checkpoints/
+
+# =========================
+# FAISS Index
+# =========================
+*.faiss
+*.index
+
+# =========================
+# OS Files
+# =========================
+.DS_Store
+Thumbs.db
+
+# =========================
+# IDE / Editor
+# =========================
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# =========================
+# Build / Dist
+# =========================
+build/
+dist/
+*.egg-info/
+
+# =========================
+# Misc
+# =========================
+*.tmp
+*.bak
