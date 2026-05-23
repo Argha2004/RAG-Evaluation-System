@@ -193,3 +193,6 @@ This project is open-source and available under the MIT License.
 <p align="center">
   ⭐ If you found this useful, consider starring the repo!
 </p>
+
+
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=vudovn&repo=ag-kit)](https://github.com/Argha2004/RAG-Evaluation-System.git)
